@@ -1,0 +1,9 @@
+{
+    "python": ".py",
+    "javascript": ".js",
+    "typescript": ".ts",
+    "java": ".java",
+    "c++": ".cpp",
+    "c#": ".cs",
+    "angular": ".ts"
+}
